@@ -1,10 +1,11 @@
 #cimsor {
-    background-color: gray;
+    background-color: black;
     font-variant: small-caps;
     font-size: x-large;
+    color: whitesmoke;
 }
 .szürke {
-    background-color: lightgray;
+    background-color: grey;
 }
 table, tbody, thead, tr, td, th{
     border-style: solid;
@@ -17,4 +18,13 @@ table{
 }
 body{
     background-color: lightcyan;
+}
+tbody, thead, tr, td, th{
+padding-left: 10px;
+padding-top: 10px;
+padding-right: 10px;
+padding-bottom: 10px;
+}
+th{
+    background-color: grey;
 }
