@@ -1,0 +1,20 @@
+#cimsor {
+    background-color: gray;
+    font-variant: small-caps;
+    font-size: x-large;
+}
+.szürke {
+    background-color: lightgray;
+}
+table, tbody, thead, tr, td, th{
+    border-style: solid;
+    border-width: 0.5px;
+    border-color: black;
+    border-spacing: 0px;
+}
+table{
+    background-color: white;
+}
+body{
+    background-color: lightcyan;
+}
